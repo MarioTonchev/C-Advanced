@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.exe
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.deps.json
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.runtimeconfig.json
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.dll
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.pdb
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.dll
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\refint\01.TempleofDoom.dll
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.pdb
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.genruntimeconfig.cache
+C:\Users\PC\Desktop\C# Advanced\Exam\01.TempleofDoom\obj\Debug\net6.0\ref\01.TempleofDoom.dll
